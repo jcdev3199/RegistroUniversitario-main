@@ -1,0 +1,12 @@
+D:\Proyectos_backend\RegistroUniversitario-main\src\main\java\com\universidad\controller\EstudianteController.java
+D:\Proyectos_backend\RegistroUniversitario-main\src\main\java\com\universidad\dto\DocenteDTO.java
+D:\Proyectos_backend\RegistroUniversitario-main\src\main\java\com\universidad\dto\EstudianteDTO.java
+D:\Proyectos_backend\RegistroUniversitario-main\src\main\java\com\universidad\dto\MateriaDTO.java
+D:\Proyectos_backend\RegistroUniversitario-main\src\main\java\com\universidad\model\Docente.java
+D:\Proyectos_backend\RegistroUniversitario-main\src\main\java\com\universidad\model\Estudiante.java
+D:\Proyectos_backend\RegistroUniversitario-main\src\main\java\com\universidad\model\Materia.java
+D:\Proyectos_backend\RegistroUniversitario-main\src\main\java\com\universidad\model\Persona.java
+D:\Proyectos_backend\RegistroUniversitario-main\src\main\java\com\universidad\repository\EstudianteRepository.java
+D:\Proyectos_backend\RegistroUniversitario-main\src\main\java\com\universidad\service\IEstudianteService.java
+D:\Proyectos_backend\RegistroUniversitario-main\src\main\java\com\universidad\service\impl\EstudianteServiceImpl.java
+D:\Proyectos_backend\RegistroUniversitario-main\src\main\java\com\universidad\UniversidadApplication.java
